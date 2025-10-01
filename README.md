@@ -11,8 +11,8 @@ The site is designed for a smooth user experience, featuring dark mode, sticky n
 * **Dark Mode Toggle:** A modern touch for user comfort.
 * **Smooth Scrolling & Sticky Nav:** Easy, animated navigation with active link highlighting.
 * **Scroll Animations:** Uses the **AOS (Animate On Scroll)** library for subtle, engaging motion.
-* [cite_start]**Skills Showcase:** Displays technical skills including Python, SQL, Machine Learning, and Web Technologies[cite: 10, 12, 14].
-* [cite_start]**Project Demos:** Features key projects like the **Cardiovascular Disease Prediction Model** and the **E-commerce Database Management System**[cite: 34, 35].
+* **Skills Showcase:** Displays technical skills including Python, SQL, Machine Learning, and Web Technologies.
+* **Project Demos:** Features key projects like the **TO DO / Notes App** and the **Product Listing Demo**.
 * **Contact Form Integration:** Ready to connect with **EmailJS** for backend-less message sending.
 
 ## 🛠️ Technology Stack
